@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=RB3 Pin=R11-1
+Removed Pin From Net: NetName=RB2 Pin=R12-1
+Removed Pin From Net: NetName=RD7 Pin=R13-1
+Removed Pin From Net: NetName=RB1 Pin=R14-1
+Removed Pin From Net: NetName=RB0 Pin=R15-1
+Removed Pin From Net: NetName=RB4 Pin=R16-1
+Removed Pin From Net: NetName=RB5 Pin=R17-1
+Added Component: Designator=BT2(Nut Nhan 2 Chan SMD 3x6x2.5)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 2 Chân 3x6x2.5MM SMD"; VariantName = "[No Variations]"
+Added Component: Designator=R18(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RB5 Pin=BT2-1
+Added Pin To Net: NetName=5V Pin=BT2-2
+Added Pin To Net: NetName=RB2 Pin=R11-1
+Added Pin To Net: NetName=RB1 Pin=R12-1
+Added Pin To Net: NetName=RD6 Pin=R13-1
+Added Pin To Net: NetName=RB0 Pin=R14-1
+Added Pin To Net: NetName=RD7 Pin=R15-1
+Added Pin To Net: NetName=RB3 Pin=R16-1
+Added Pin To Net: NetName=RB4 Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=RB5 Pin=R18-2
+Added Member To Class: ClassName=SCH_Persion_Counter Member=Component BT2 Nut Nhan 2 Chan SMD 3x6x2.5
+Added Member To Class: ClassName=SCH_Persion_Counter Member=Component R18 10k

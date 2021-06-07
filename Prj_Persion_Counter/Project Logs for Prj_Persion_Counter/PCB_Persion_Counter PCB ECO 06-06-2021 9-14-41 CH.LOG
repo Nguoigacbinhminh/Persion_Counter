@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=RD0 Pin=IC1-19
+Removed Pin From Net: NetName=RD0 Pin=JP5-5
+Removed Pin From Net: NetName=RD1 Pin=JP7-2
+Added Pin To Net: NetName=RD0 Pin=IC1-21
+Added Pin To Net: NetName=RD0 Pin=JP4-10
+Added Pin To Net: NetName=RD3 Pin=JP7-2
+Change Net Name : Old Net Name=RD0 New Net Name=RD2
+Added Pin To Net: NetName=RD0 Pin=IC1-19
+Added Pin To Net: NetName=RD0 Pin=JP5-5
+Added Net: Name=RD0
